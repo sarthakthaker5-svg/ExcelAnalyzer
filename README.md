@@ -1,6 +1,18 @@
 
 # 📊 Sales Data Analysis & Dashboard
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Sales+%26+Analyzer+Data+Analytics+Dashboard;Excel+Data+Analysis+Project;Pivot+Tables+%7C+Formulas+%7C+Visualizations" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pivot-Tables-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualization-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard-Excel-purple?style=for-the-badge" />
+</p>
+
 ## 📌 Project Overview
 
 This project is an **Excel-based Sales Data Analysis and Dashboard project** created using Microsoft Excel.
