@@ -44,6 +44,21 @@ The main objectives of this project are:
 
 ---
 
+# 🎥 Project Demo Video
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1NPgF1ATE-ZVrhCmIZawNEJdecEGmE8tw/view" target="_blank">
+
+<img src="https://img.shields.io/badge/▶️%20Watch%20Project%20Demo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+</a>
+
+</p>
+
+> 📺 Click the button above to watch the complete project demonstration and SQL explanation video.
+---
+
 # 🛠️ Tools & Technologies Used
 
 - Microsoft Excel
